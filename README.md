@@ -1,1 +1,1 @@
-# JOBLENZ
+# JobLens-AI
